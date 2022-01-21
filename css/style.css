@@ -287,7 +287,9 @@ hr {
   width: 100%;
   height: 77%;
 }
-
+.reservation_content .heading{
+  color: #c9a131;
+}
 
 .reservation_form label{
   color: #cc9900;
